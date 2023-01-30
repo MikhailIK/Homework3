@@ -81,5 +81,4 @@ switch (monthNumber) {
         break;
 }
 
-//task 6
 
